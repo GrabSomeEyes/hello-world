@@ -1,7 +1,8 @@
 hello-world
 ===========
 
-Hi Humans!
+Hey all,
 
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+I'm Austin and today (October 27, 2015) is my first day on Github. I honestly have no clue what I'm doing and I should probably be studying HTML and Javascript right now instead, but I'm excited to learn how to use this tool.
+
+- Austin
